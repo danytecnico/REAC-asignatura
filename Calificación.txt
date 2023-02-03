@@ -1,0 +1,3 @@
+Calificación: 0.5/1
+
+No ha subido el archivo package.json, por tanto no se puede reconstruir la aplicación. Debe revisar su archivo .gitignore
